@@ -1,0 +1,8 @@
+{
+    "type": "module",
+    "dependencies": {
+      "express": "^4.17.1",
+      "mariadb": "^2.5.4"
+    }
+  }
+  
